@@ -1,4 +1,4 @@
-# Hi there! :wave: 
+# Hi :wave: 
 I'm Guillermo 
 
 :computer: Junior Backend Developer 
