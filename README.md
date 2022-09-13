@@ -1,6 +1,8 @@
 # Hi there! :wave: I'm guipagra
 
-###### Junior Backend Developer :computer: Interested in the development of APIs through REST and GraphQL
+:computer: ###### Junior Backend Developer 
+:seedling: ###### Interested in the development of APIs through REST and GraphQL
+
 
 ###### I usually work with: 
 
