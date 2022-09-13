@@ -1,4 +1,5 @@
-# Hi there! :wave: I'm guipagra
+# Hi there! :wave: 
+###### I'm guipagra
 
 :computer: Junior Backend Developer 
 :seedling: Interested in the development of APIs through REST and GraphQL
