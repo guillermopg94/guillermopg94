@@ -1,7 +1,7 @@
 # Hi :wave: 
 :round_pushpin: I'm Guillermo 
 
-:computer: Junior Backend Developer 
+:computer: Backend Developer 
 
 :seedling: Interested in the development of APIs through REST and GraphQL
 
